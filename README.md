@@ -8,7 +8,7 @@ Framework yang digunakan:
 - Bootstrap (Front-end).
 - Spring Web MVC (Back-end).
 
-List Fitur dalam program berikut:
+List Fitur utama dalam program berikut:
 - Tambah produk baru.
 - Hapus produk.
 - Perbarui jumlah stok (restock).
